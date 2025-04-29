@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Aris Michalomichelakis | UX Researcher Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Aris Michalomichelakis</h1>
+    <p>Anthropologist | Cultural Analyst | UX Researcher</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      Cultural Analyst with a background in Social Anthropology and a passion for understanding human behavior. I specialize in uncovering people’s perspectives, analyzing social and cultural dynamics, and turning insights into meaningful solutions. I help bridge the gap between human experiences and strategic decision-making through qualitative research and data analysis.
+    </p>
+  </section>
+
+  <section id="skills">
+    <h2>What I Do</h2>
+    <ul>
+      <li>Market Research & Trend Analysis</li>
+      <li>Customer Experience (CX) Research</li>
+      <li>Semi-Structured & In-Depth Interviews</li>
+      <li>Surveys & Usability Testing</li>
+      <li>Ethnographic Fieldwork & Observation</li>
+      <li>Behavioral Analysis & Journey Mapping</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Selected Projects</h2>
+
+    <article>
+      <h3>Social Networks and Insurance: An Anthropological Approach to Risk Management</h3>
+      <p><strong>Date:</strong> Dec 2024 – Apr 2025</p>
+      <p>This Master's thesis explores how social networks influence perceptions of insurance and how life events shape coverage decisions. It challenges traditional models by adding cultural context to risk and trust.</p>
+      <ul>
+        <li>Semi-structured interviews & informal conversations</li>
+        <li>Comparative literature & industry analysis</li>
+        <li><strong>Insights:</strong> Life events are key insurance triggers; trust and culture deeply affect adoption.</li>
+        <li><strong>Outcome:</strong> Introduced cultural and social analysis into industry discussions of consumer behavior.</li>
+      </ul>
+    </article>
+
+    <article>
+      <h3>UX Research Internship – IF Insurance (Customer Insights Dept.)</h3>
+      <p><strong>Date:</strong> Aug 2024 – Jan 2025</p>
+      <ul>
+        <li>Designed and led qualitative research to inform product development.</li>
+        <li>Created a research repository, conducted internal and competitor analysis.</li>
+        <li>Designed customer journey studies and usability tests for insurance webshops.</li>
+        <li><strong>Outcome:</strong> Delivered insights that shaped CX strategy and product improvements.</li>
+      </ul>
+    </article>
+
+    <article>
+      <h3>KU Lighthouse: Cultural & Operational Analysis</h3>
+      <p><strong>Date:</strong> Jan 2024 – Jun 2024</p>
+      <ul>
+        <li>Ethnographic interviews, observations, and focus groups with staff/students.</li>
+        <li>Process mapping and team dynamic evaluation.</li>
+        <li><strong>Outcome:</strong> Revealed visibility, location, and morale issues; offered solutions for organizational improvements.</li>
+      </ul>
+    </article>
+
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p><strong>Email:</strong> <a href="mailto:michalomichelakis@gmail.com">michalomichelakis@gmail.com</a></p>
+    <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/aris-michalomichelakis-948941207/" target="_blank">Aris Michalomichelakis</a></p>
+    <p><strong>Location:</strong> Copenhagen, 2100</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Aris Michalomichelakis | UX Research Portfolio</p>
+  </footer>
+</body>
+</html>
